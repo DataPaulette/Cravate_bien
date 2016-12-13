@@ -4,7 +4,7 @@ Code Arduino pour microcontroleur Digispark (ATTiny85)
 ## Flash the firmware
 - Add the Digispark Arduino repository : http://digistump.com/package_digistump_index.json
 - Add the Digispark Arduino extension with the board manager
-- flash the firmware
+- Flash the firmware
  - Set board type to : Digispark (16 Mhz - No USB)
  - Clic onto "UPLOAD" before to plug the Digispark to your USB port
  
