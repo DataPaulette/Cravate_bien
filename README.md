@@ -1,11 +1,12 @@
 # Cravate bien
-eTextile cravate
-- Code Arduino pour microcontroleur Digispark
-- Ajouter le support Digispark : http://digistump.com/package_digistump_index.json
-- Installer le support Digispark avec le gestionaire de cartes
-- Pour flasher
- - Type de carte : Digispark (16 Mhz - No USB)
- - envoyer le programme avant de brancher la carte au PC
+Code Arduino pour microcontroleur Digispark (ATTiny85)
+
+# flash the firmware
+- Add the Digispark Arduino repository : http://digistump.com/package_digistump_index.json
+- Add the Digispark Arduino extension with the board manager
+- flash the firmware
+ - Set board type to : Digispark (16 Mhz - No USB)
+ - Clic onto "UPLOAD" before to plug the Digispark to your USB port
  
  # Connect the circut
 - The mic OUTPUT ins connect to P2
@@ -13,4 +14,4 @@ eTextile cravate
 - The 3.3V Lipo Battery is pluged directly to 5V NOT Vin
 
 # TODO
--
+- 
