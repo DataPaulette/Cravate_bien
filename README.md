@@ -14,11 +14,14 @@ Code Arduino pour microcontroleur Digispark (ATTiny85)
 - The 3.3V Lipo Battery is pluged directly to 5V NOT Vin
 
 ## BOM
+
 | Material                       |  Quantity        |  Price  |
 |--------------------------------|------------------|---------|
-| WS2812 white 4m 60 ip30        |   20 LEDs - 33cm | 6,46€   |
-| Digispark ATTINY85             |       1          | 0,97€   |
-| Lithium Polymer 3.7 V 1100 mA  |       1          | 3,50€   |
+| WS2812 white 4m 60 ip30        | 20 LEDs - 33cm   |  6,46€  |
+| Digispark ATTINY85             | 1                |  0,97€  |
+| Lithium Polymer 3.7 V 1100 mA  | 1                |  3,50€  |
+| Chargeur Module                | 1                |  0,61€  |
+|                                | TOTAL            |  11,54€ |
 
 ## TODO
 - 
